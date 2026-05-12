@@ -1,0 +1,49 @@
+{
+  "businessName": "Olacubic Signature & Olafem Collections",
+  "industry": "Fashion and Creative Design",
+  "tone": "elegant and creative",
+  "tagline": "Where Style Meets Artistry",
+  "sections": [
+    {
+      "id": "hero",
+      "name": "Hero",
+      "copy": "Welcome to Olacubic Signature & Olafem Collections – Ibadan's premier destination for bespoke fashion and creative design. We transform your style vision into stunning reality with exceptional craftsmanship and attention to detail.",
+      "imagePrompt": "Elegant Nigerian fashion boutique interior in Ibadan, featuring luxurious fabric displays, contemporary African print materials draped beautifully, warm golden lighting, modern minimalist design with traditional Nigerian artistic touches, professional photography style, high-end fashion atmosphere",
+      "layout": "centered"
+    },
+    {
+      "id": "about",
+      "name": "About Us",
+      "copy": "Olacubic Signature and Olafem Collections represent the perfect fusion of traditional Nigerian aesthetics and contemporary fashion design. Located in the heart of Ibadan North, we are dedicated to creating unique, high-quality garments that celebrate your individuality. Our team of skilled designers and tailors brings years of experience in transforming fabrics into wearable art. Whether you're looking for traditional attire, modern casual wear, or bespoke occasion outfits, we deliver excellence in every stitch.",
+      "imagePrompt": "Professional Nigerian fashion designer's workspace in Ibadan, colorful African print fabrics neatly organized, cutting table with patterns, modern sewing machines, mannequins displaying beautiful garments, natural lighting through windows, creative and inspiring atmosphere, photorealistic detail",
+      "layout": "split"
+    },
+    {
+      "id": "services",
+      "name": "Our Services",
+      "copy": "Custom Fashion Design & Tailoring: Bespoke garments tailored to your exact measurements and style preferences, from traditional Nigerian attire to contemporary fashion pieces.\n\nReady-to-Wear Collections: Curated selection of stylish, high-quality clothing available for immediate purchase.\n\nCreative Design Consultation: Expert guidance on fabric selection, color coordination, and style choices to bring your fashion vision to life.\n\nOccasion Styling: Specialized designs for weddings, corporate events, parties, and special celebrations.\n\nAlterations & Modifications: Professional adjustments to ensure your garments fit perfectly.\n\nFashion Accessories: Complementary pieces to complete your look, from headwraps to statement jewelry.",
+      "imagePrompt": "Collage of diverse Nigerian fashion services, elegant traditional aso-ebi outfits, modern corporate wear, beautiful wedding attire, colorful African prints, accessories and jewelry, professional tailoring in progress, vibrant and sophisticated presentation, magazine-quality photography",
+      "layout": "grid"
+    },
+    {
+      "id": "contact",
+      "name": "Visit Our Studio",
+      "copy": "Ready to elevate your wardrobe? Visit us at our studio or reach out to discuss your next fashion project.\n\nAddress: N6/636 opposite School of Midwifery, adjacent Yemetu Police Station Yemetu Ibadan, Ibadan North, Nigeria\n\nPhone: 09055335587\n\nWe welcome walk-ins and appointments. Our team is ready to help you discover your signature style.",
+      "imagePrompt": "Welcoming Nigerian fashion boutique storefront in Ibadan, modern signage for Olacubic Signature and Olafem Collections, inviting entrance with display windows showing beautiful garments, street view of Yemetu area, warm afternoon lighting, professional architectural photography",
+      "layout": "default"
+    },
+    {
+      "id": "testimonials",
+      "name": "What Our Clients Say",
+      "copy": "\"The attention to detail is incredible. My wedding outfit was absolutely perfect!\" – Blessing A.\n\n\"I've never felt more confident in my clothes. Olacubic Signature truly understands style.\" – Tunde O.\n\n\"From consultation to final fitting, the experience was professional and enjoyable. Highly recommended!\" – Chioma N.\n\n\"They transformed my ideas into reality. The craftsmanship is outstanding.\" – Abdul K.",
+      "imagePrompt": "Happy Nigerian clients wearing beautifully tailored outfits, diverse group of satisfied customers in various elegant designs, professional photo shoot style, warm and authentic expressions, Ibadan urban background, celebratory and confident atmosphere",
+      "layout": "cards"
+    }
+  ],
+  "contact": {
+    "phone": "09055335587",
+    "email": "",
+    "address": "N6/636 opposite School of Midwifery, adjacent Yemetu Police Station Yemetu Ibadan, Ibadan North, Nigeria",
+    "whatsapp": "https://wa.me/2349055335587"
+  }
+}
